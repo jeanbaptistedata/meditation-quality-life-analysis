@@ -37,3 +37,16 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+🔍 Goals
+
+Make insights from meditation research accessible and replicable
+Combine quantitative data with psychological theory
+Support academic writing, projects, and presentations in psychology
+📌 Status
+
+In progress: Structure defined, sourcing credible datasets and papers next.
+
+🤝 Contribute
+
+Suggestions from psychologists, neuroscientists, or data scientists are welcome!
