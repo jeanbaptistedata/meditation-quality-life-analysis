@@ -1,17 +1,22 @@
 # 🧾 Studies on Meditation and Quality of Life
 
-This document lists credible sources related to meditation and its effects on psychological and physiological well-being.
+Mental Health Effects
 
----
+Title: The Effect of Mindfulness-Based Therapy on Anxiety and Depression
+Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2848393/
+Summary: Meta-analysis shows significant reduction in anxiety and depression using mindfulness-based therapy.
+Physiological Measures
 
-## Mental Health Effects
-- _Placeholder for anxiety, depression, and stress studies_
+Title: Effects of Meditation on Heart Rate Variability and Sleep
+Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6142980/
+Summary: Meditation improves HRV and sleep quality, showing autonomic regulation benefits.
+Subjective Well-Being
 
-## Physiological Measures
-- _Placeholder for HRV, sleep, cortisol, etc._
+Title: Loving-Kindness Meditation Increases Positive Emotions
+Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3156028/
+Summary: Long-term effects on positive emotions, life satisfaction, and social connectedness.
+Type & Frequency of Practice
 
-## Subjective Well-Being
-- _Placeholder for happiness, satisfaction, and meaning studies_
-
-## Practice Type & Frequency
-- _Placeholder for mindfulness vs other techniques_
+Title: Mindfulness Meditation: Practice Frequency and Psychological Outcomes
+Link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3679190/
+Summary: Higher frequency correlates with improved psychological outcomes; mindfulness is compared to other forms.
